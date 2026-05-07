@@ -12,12 +12,6 @@ let allMusic=[
         src:"Ennai_thottu_alli_konda"
     },
     {
-        name:"Ethana_Saami",
-        artist:"Pushpavanam Kuppusamy",
-        img:"dhanush",
-        src:"Ethana_Saami"
-    },
-    {
         name:"Ratnamala",
         artist:"G.V.Prakash",
         img:"sivakarthikeyan",
@@ -34,30 +28,5 @@ let allMusic=[
         artist:"Karthik",
         img:"surya",
         src:"Vizhi_Moodi_Yosithaal"
-    },
-    {
-        name:"Thuli_Thuli",
-        artist:"Haricharan",
-        img:"karthi",
-        src:"Thuli_Thuli_Mazhaiyaai"
-    },
-    {
-        name:"Ketta_Kodukkira",
-        artist:"Jessie Gift, Chinmayi, Sujatha, Ganga",
-        img:"vishal",
-        src:"Ketta_Kodukkira_Boomi"
-    },
-    {
-        name:"Kanavellam",
-        artist:"Karthik, Jayachandran",
-        img:"ajith",
-        src:"Kanavellam_Palikudhe"
-    },
-    {
-        name:"Avalum_Naanum",
-        artist:"Vijay Yesudas",
-        img:"simbu",
-        src:"Avalum_Naanum"
-    },
-    
+    }
 ]
