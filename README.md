@@ -17,12 +17,12 @@ This project is a web-based music player application designed to provide a seaml
 *   **JavaScript (ES6+)**: For audio logic, DOM manipulation, and state management[cite: 1].
 
 ## Project Structure
-
+```text
 ├── index.html   # Main structural layout
 ├── style.css    # Visual design and animations
 └── script.js    # Playback logic and playlist engine
 
-## Installation & Usage
+## Installation and Usage
 Clone the repository:
 Bash
 git clone [https://github.com/your-username/music-player.git](https://github.com/your-username/music-player.git)
@@ -31,5 +31,5 @@ Navigate to the folder:
 Bash
 cd music-player
 
-Run the application:
+## Run the application:
 Simply open the index.html file in any modern web browser (Chrome, Firefox, Edge).
